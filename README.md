@@ -1,1 +1,1 @@
-This is Pedro`s first git projct.
+This is Pedro`s first git project.
